@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+# This is my LinkedIn page
+[Gabriel's LinkedIn Page](https://www.linkedin.com/in/gtex/)
