@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Like to preach
+* Like to pray
+* Love my wife! 
